@@ -13,4 +13,4 @@ http://localhost:3000/chat
 
 4. **To create and update api key in your local setup of repsoitory create a file named `.env.local`.**
 
-5. **Add the property `NEXT_PUBLIC_OPENAI_API_KEY=` with your ChatGpt API KEY and you are good to go.
+5. **Add the property `NEXT_PUBLIC_OPENAI_API_KEY=` with your ChatGpt API KEY and you are good to go.**
