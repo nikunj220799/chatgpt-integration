@@ -7,6 +7,7 @@ Integrated chatgpt locally. Please use own api key in .env file
 
 ```sh
 http://localhost:3000/chat
+```
 
 3. **If no response is generated probably API key is mssing**
 
